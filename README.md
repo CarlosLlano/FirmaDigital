@@ -9,3 +9,8 @@
 ***Diagrama de clases***
 
 ![diagrama](https://user-images.githubusercontent.com/17281733/33253886-e14cc000-d313-11e7-8573-38c68e774d38.jpg)
+
+
+***Video explicativo***
+
+https://www.youtube.com/watch?v=O9iYrHYHH2c&feature=youtu.be
