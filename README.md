@@ -13,4 +13,4 @@
 
 ***Video explicativo***
 
-https://www.youtube.com/watch?v=O9iYrHYHH2c&feature=youtu.be
+[![captura de pantalla 2018-07-13 a la s 3 11 17 p m](https://user-images.githubusercontent.com/17281733/42711855-211e2f26-86af-11e8-808b-00e2f1874c6e.png)](https://www.youtube.com/watch?v=O9iYrHYHH2c&feature=youtu.be)
